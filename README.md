@@ -79,7 +79,7 @@ Pie chart showing the overall distribution of spending between genders.
 
 Highlights the locations with the highest number of transactions.
 
-![Top Locations](graphs/6.png)
+![Top Locations](graphs/6.PNG)
 
 ---
 
