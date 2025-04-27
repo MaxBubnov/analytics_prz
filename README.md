@@ -39,7 +39,7 @@ Each chart helps uncover unique patterns in customer behavior.
 
 Shows how total spend varies with the duration of a customer’s relationship with the brand.
 
-![Tenure Spend](graphs/1.png)
+![Tenure Spend](graphs/1.PNG)
 
 ---
 
@@ -47,7 +47,7 @@ Shows how total spend varies with the duration of a customer’s relationship wi
 
 Displays the total spend across months to observe seasonality or monthly trends.
 
-![Monthly Spend](graphs/2.png)
+![Monthly Spend](graphs/2.PNG)
 
 ---
 
@@ -55,7 +55,7 @@ Displays the total spend across months to observe seasonality or monthly trends.
 
 Identifies the most frequently purchased product categories.
 
-![Top Categories](graphs/3.png)
+![Top Categories](graphs/3.PNG)
 
 ---
 
@@ -63,7 +63,7 @@ Identifies the most frequently purchased product categories.
 
 Compares the spending habits of users who use coupons vs those who don't.
 
-![Coupon Spend](graphs/4.png)
+![Coupon Spend](graphs/4.PNG)
 
 ---
 
@@ -71,7 +71,7 @@ Compares the spending habits of users who use coupons vs those who don't.
 
 Pie chart showing the overall distribution of spending between genders.
 
-![Gender Pie](graphs/5.png)
+![Gender Pie](graphs/5.PNG)
 
 ---
 
@@ -87,7 +87,7 @@ Highlights the locations with the highest number of transactions.
 
 A stacked bar chart showing online vs offline spending across months.
 
-![Channel Spend](graphs/7.png)
+![Channel Spend](graphs/7.PNG)
 
 ---
 
